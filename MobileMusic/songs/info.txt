@@ -1,0 +1,31 @@
+01.mp3;Yêu Đương Là Tạm Thời;Dani D;01.jpg
+02.mp3;Nhạt-fine;GREY D;02.jpg
+03.mp3;Vì Em Thích;ICM, Thoại Nghi & Mhee;03.webp
+04.mp3;Cảm Ơn Vì Đã Không Đợi Em;V.A;04.jpg
+05.mp3;Nhạc Của Rừng;Đen, Hiền VK;05.jpeg
+06.mp3;Nói Anh Nghe;Hngle, Hoãng, Parys;06.jpg
+07.mp3;Tháng Mấy ... Chia Tay?;Khởi My, Kaisoul, Bảo Thạch;07.jpg
+08.mp3;Thiên Đường Không Thể Đến Nữa...;Hoài Lâm, Aitai;08.jpg
+09.mp3;Có Anh Ở Đây;Bảo Anh, Cheng;09.jpg
+10.mp3;Yêu Nắm; BigDaddy, Emily;10.jpg
+11.mp3;Mơ Một Giấc Mơ;Tăng Phúc, Nguyễn Đình Vũ;11.jpg
+12.mp3;the 1;Taylor Swift;12.jpg
+13.mp3;cardigan;Taylor Swift;13.png
+14.mp3;Lavender Haze;Taylor Swift;14.jpg
+15.mp3;Wildest Dream;Taylor Swift;15.webp
+16.mp3;Set fire to The Rain;Adele;16.jpg
+17.mp3;Easy on me;Adele;17.jpeg
+18.mp3;Say Yes To Heaven;Lana Del Ray;18.jpeg
+19.mp3;A Thousand Years;Christina Perri;19.jpg
+20.mp3;Night changes;One Direction;20.png
+21.mp3;Shape of You;Ed Sheeran;21.png
+22.mp3;Talking to the Moon;Bruno Mars;22.jpg
+23.mp3;Butter;BTS;23.png
+24.mp3;Save ME;BTS;24.jpg
+25.mp3;LOSER;BIGBANG;25.jpg
+26.mp3;Cry Cry;T-ara;26.jpg
+27.mp3;Lovey-Dovey;T-ara;27.jpg
+28.mp3;LIES;BIGBANG;28.jpg
+29.mp3;GO AWAY;2NE1;29.jpg
+30.mp3;I Need A Girl;Taeyang;30.jpg
+31.mp3;WITHOUT YOU;G-DRAGON (feat. ROSÉ of BLACKPINK);31.jpg
